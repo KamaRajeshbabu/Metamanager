@@ -120,4 +120,3 @@ Open to:
 > *"Don’t manage people. Build systems that manage outcomes."*
 > — (Kama Rajeshbabu)
 
-```
