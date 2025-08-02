@@ -77,7 +77,6 @@ python app.py
 
 ## 📸 Screenshots
 
-> *(Add 1–2 UI or terminal screenshots here — even basic ones are valuable for showing it works!)*
 
 ---
 
