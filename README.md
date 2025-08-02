@@ -120,6 +120,4 @@ Open to:
 > *"Don’t manage people. Build systems that manage outcomes."*
 > — (Kama Rajeshbabu)
 
-
-Let me know when you're ready for the **agent files, app logic, or UI** — I’ll generate everything that aligns perfectly.
 ```
