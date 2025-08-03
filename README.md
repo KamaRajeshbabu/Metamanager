@@ -1,17 +1,3 @@
-Here's your **🔥 stunning, visual, and animated `README.md`** for **MetaManager** — agentic, expressive, and perfect for GitHub + LinkedIn presence.
-
-It includes:
-
-* Animated title (via Markdown & badges)
-* New subtitle: *AI-Powered Agent Workspace*
-* Mermaid diagram
-* Screenshot placeholders
-* Contribution + roadmap styling
-* Colorful visual flair
-
----
-
-````markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0FF&vCenter=true&width=435&lines=🧠+MetaManager;AI-Powered+Agent+Workspace" alt="Typing SVG" />
 </h1>
