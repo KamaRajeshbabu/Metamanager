@@ -1,10 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0FF&vCenter=true&width=435&lines=🧠+MetaManager;AI-Powered+Agent+Workspace" alt="Typing SVG" />
+<h1 align="center" style="color:#00E0FF; font-weight:bold; font-size:40px;">
+🧠 MetaManager
 </h1>
+
+<h3 align="center" style="color:#A0C4FF;">
+AI-Powered Agent Workspace
+</h3>
 
 <p align="center">
   <strong>Replace traditional managers with autonomous AI agents</strong><br>
-  Less micromanaging, more momentum. Built using LangChain, LangGraph & persistent memory.
+  Less micromanaging, more momentum. Built with LangChain, LangGraph & persistent memory.
 </p>
 
 <p align="center">
@@ -128,3 +132,4 @@ Want to help make this smarter?
 
 > *"Don’t manage people. Build systems that manage outcomes."*
 > — Kama Rajeshbabu
+
